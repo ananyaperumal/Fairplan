@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build/
+.env
+fairplan_db.json
+fairplan.db
+fairplan.db-journal
+*.log
+.DS_Store
